@@ -17,3 +17,4 @@ Predictive Analysis Notebook Files
 2. dt.ipynb - implementation of decision trees
 3. reg.ipynb - implementation of linear and logistic regression
 4. ann.ipynb - implementation of artificial neural network
+5. Country_Analysis.ipynb - implementation of statistical data
